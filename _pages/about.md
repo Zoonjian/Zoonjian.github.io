@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello~ I am Zongjian Wu,a master student at [Chongqing University](CQU)(https://www.cqu.edu.cn/). I am very fortunate to be advised by [Prof. Lei Zhang](http://www.leizhang.tk), Chongqing University.<br />
-My current research interests lie in Vision Language Models, Visual foundation model, semantic segmentation, object detection and transfer learning.I'm always welcome any form of collaboration.You can find my email here:[Email](Zongjian_Ng@outlook.com)<br />
+My current research interests lie in **Vision Language Models, Visual foundation model, semantic segmentation, object detection and transfer learning**.I'm always welcome any form of collaboration！You can find my email here:[Email](Zongjian_Ng@outlook.com)<br />
 
 ## Research Interests
 - **Open-world visual understanding**
@@ -19,16 +19,20 @@ My current research interests lie in Vision Language Models, Visual foundation m
   - transfer learning
 
 ## Information
-- Email: Zongjian_N [at] outlook.com 
+- Email: Zongjian_Ng [at] outlook.com 
 - Github: [https://github.com/Zoonjian/](https://github.com/Zoonjian/)
 <!--Tip: *Italics* indicate the first author.-->
 
 
 ## Recent News
-- **September 5 2024**: Receive the **Outstanding Master Thesis** Award.
+- **September 5 2024**: Master's degree admission to Chongqing University
+- **June 6 2024**:Outstanding Graduates of Dalian City
 
 ## Awards
-
+- **November 2022**:National Second Prize in Mathematical Modeling
+- **October 2022**:National Third Prize in Digital Media Competition
+- **August 2022**:National Third Prize in Computer Design Competition
+- **August 2022**:National Second Prize in Computer Game Competition
 
 ## Academic Service
 - Reviewers: ACAIT
