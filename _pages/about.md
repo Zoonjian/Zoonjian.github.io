@@ -7,36 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello~ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative Deep Learning** and **Generalized Deep Learning under imperfect environments**.
+Hello~ I am Zongjian Wu,a master student at [Chongqing University](CQU)(https://www.cqu.edu.cn/). I am very fortunate to be advised by [Prof. Lei Zhang](http://www.leizhang.tk), Chongqing University.<br />
+My current research interests lie in Vision Language Models, Visual foundation model, semantic segmentation, object detection and transfer learning.I'm always welcome any form of collaboration.You can find my email here:[Email](Zongjian_Ng@outlook.com)<br />
 
 ## Research Interests
-- **Collaborative deep learning**
-  - Federated Learning
-- **Generalized Deep Learning**
-  - Long-tailed Learning
-  - Out-of-distribution Generalization
-  - Underspecification Data
-- **Data Efficiency**
-  - Dataset Distillation
+- **Open-world visual understanding**
+  - Vision Language Models
+  - Open-vocabulary segmentation/object detection
+- **Vision Foundation Models**
+  - Prompt Learning
+  - transfer learning
 
 ## Information
-- Email: xinyi.shang.23 [at] ucl.ac.uk
-- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
-- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
-
+- Email: Zongjian_N [at] outlook.com 
+- Github: [https://github.com/Zoonjian/](https://github.com/Zoonjian/)
 <!--Tip: *Italics* indicate the first author.-->
 
 
 ## Recent News
-- **May 19 2023**: Receive the **Outstanding Master Thesis** Award.
-- **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by scholarship!!
-- **Nov 23 2022**: Start research intern at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
-- **Sep 29 2022**: Get the China National Scholarship.
-- **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted. 
-- **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper.
+- **September 5 2024**: Receive the **Outstanding Master Thesis** Award.
+
+## Awards
+
 
 ## Academic Service
-- Reviewers: TNNLS, TCSVT, NeurIPS, AAAI, IJCAI
+- Reviewers: ACAIT
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
