@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyi Shang"
+title                    : "Zongjian Wu"
 title_separator          : "-"
-name                     : &name "Xinyi Shang"
+name                     : &name "Zongjian Wu"
 description              : &description "personal description"
-url                      : https://shangxinyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zoonjian.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shangxinyi/shangxinyi.github.io"
+repository               : "Zoonjian/Zoonjian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyi Shang"
+  name             : "Zongjian Wu"
   avatar           : "profile1.jpg"
-  bio              : "Ph.D. Student, University College London (UCL)."
+  bio              : "Master Student, Congqing University(CQU)."
   location         : "London, England"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ"
-  email            : "xinyi.shangxy@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ"
+  email            : "Zongjian_Ng@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shangxinyi"
+  github           : "Zoonjian"
   google_plus      :
   keybase          :
   instagram        :
