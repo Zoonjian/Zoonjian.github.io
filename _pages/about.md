@@ -11,7 +11,7 @@ Hello~ I am Zongjian Wu,a master student at Chongqing University(CQU). I am very
 My current research interests lie in **Vision Language Models, Visual Foundation Models, Semantic Segmentation, Object Detection and Transfer Learning**.I'm always welcome any form of collaboration！You can find my email here: [Email](Zongjian_Ng@outlook.com)<br />
 
 ## Research Interests
-- **Open-world visual understanding**
+- **Open-world Visual Understanding**
   - Vision Language Models
   - Open-vocabulary segmentation/object detection
 - **Vision Foundation Models**
