@@ -13,10 +13,10 @@ My current research interests lie in **Vision Language Models, Visual Foundation
 ## Research Interests
 - **Open-world Visual Understanding**
   - Vision Language Models
-  - Open-vocabulary segmentation/object detection
+  - Open-Vocabulary Segmentation/Object Detection
 - **Vision Foundation Models**
   - Prompt Learning
-  - Transfer learning
+  - Transfer Learning
 
 ## Information
 - Email: Zongjian_Ng [at] outlook.com 
