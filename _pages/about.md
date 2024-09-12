@@ -25,8 +25,8 @@ My current research interests lie in **Vision Language Models, Visual Foundation
 
 
 ## Recent News
-- **September 5 2024**: Master's degree admission to Chongqing University
-- **June 6 2024**:Outstanding Graduates of Dalian City
+- **September 2024**: Master's degree admission to Chongqing University
+- **June 2024**:Outstanding Graduates of Dalian City
 
 ## Awards
 - **November 2022**:National Second Prize in Mathematical Modeling
