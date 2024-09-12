@@ -18,5 +18,5 @@ Honors and Awards (Selected)
 
 Hobbies
 ======
-- Travelling: I have traveled to most cities in China, such as Shanghai, Nanjing, Xiamen, Xian, Dalian, Chengdu, Chongqing...
+- Travelling: I have traveled to most cities in China, such as Shanghai, Nanjing, Xiamen, Xi'an, Dalian, Chengdu, Chongqing...
 - Photography and keeping journal: I have been keeping track of my life and enjoying my life.
