@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello~ I am Zongjian Wu,a M.S. candidate at Chongqing University(CQU). I am very fortunate to be advised by [Prof. Lei Zhang](http://www.leizhang.tk), Chongqing University.<br />
-My current research interests lie in **Vision Language Models, Visual Foundation Models, Semantic Segmentation, Object Detection and Transfer Learning**.I'm always welcome any form of collaboration!You can find my email here: [E-mail](Zongjian_Ng@outlook.com)<br />
+My current research interests lie in **Vision Language Models, Visual Foundation Models, Semantic Segmentation, Object Detection and Transfer Learning**.I'm always welcome any form of collaboration!You can find my email here: [Email](Zongjian_Ng@outlook.com/)<br />
 
 ## Research Interests
 - **Open-world Visual Understanding**
