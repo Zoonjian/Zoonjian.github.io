@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-- M.S. in Electronic Engineering, Chognqing University, 2024
+- M.S. in Electronic Engineering, Chongqing University, 2024
 
 Honors and Awards (Selected)
 ======
