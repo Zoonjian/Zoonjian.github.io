@@ -9,8 +9,7 @@ redirect_from:
 ---
 Hello~ I am Zongjian Wu,a M.S. Candidate at [Chongqing University](https://www.cqu.edu.cn)(CQU). I am very fortunate to be advised by [Prof. Lei Zhang](http://www.leizhang.tk), Chongqing University.<br />
 My current research interests lie in **Vision Language Models, Visual Foundation Models, Semantic Segmentation, Object Detection and Transfer Learning**.I'm always welcome any form of collaboration!You can find my email here: [Email](mailto:Zongjian_Ng@outlook.com)<br />
-
-## Research Interests
+**My research interests include:**
 - **Open-world Visual Understanding**
   - Vision Language Models
   - Open-Vocabulary Segmentation/Object Detection
@@ -18,25 +17,25 @@ My current research interests lie in **Vision Language Models, Visual Foundation
   - Prompt Learning
   - Transfer Learning
 
-## Information
+## 🧍‍♂️Information
 - Email: Zongjian_Ng [at] outlook.com 
 - Github: [https://github.com/Zoonjian/](https://github.com/Zoonjian/)
 <!--Tip: *Italics* indicate the first author.-->
 
+## 🔥 Recent News
+- &nbsp;🎉🎉**September 2024**:&nbsp; Master's degree admission to Chongqing University
+- &nbsp;🎉🎉**June 2024**:Outstanding Graduates of Dalian City
 
-## Recent News
-- **September 2024**: Master's degree admission to Chongqing University
-- **June 2024**:Outstanding Graduates of Dalian City
-
-## Awards
+## 🎖 Honors and Awards
 - **November 2022**:National Second Prize in Mathematical Modeling
 - **October 2022**:National Third Prize in Digital Media Competition
 - **August 2022**:National Third Prize in Computer Design Competition
 - **August 2022**:National Second Prize in Computer Game Competition
 
-## Academic Service
+## 📝 Academic Service
 - Reviewers: ACAIT
 
+## 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5szqxx3ljvm&amp;s=280&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
